@@ -166,7 +166,7 @@ namespace DevTeams_Challenge_Console
             Console.WriteLine("Enter the first name of the developer you'd like to delete.");
             string devToDeleteFirstName = Console.ReadLine();
 
-            Console.WriteLine("enter the last name of the developer you'd like to delete.");
+            Console.WriteLine("Enter the last name of the developer you'd like to delete.");
 
             string devToDeleteLastName = Console.ReadLine();
 
